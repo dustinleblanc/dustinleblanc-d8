@@ -1,0 +1,14 @@
+uuid: 74ed1652-94b0-48b1-882d-6242a02c2c38
+name: dustinleblanc-d8
+mail: dustin.m.leblanc@gmail.com
+slogan: ''
+page:
+  403: ''
+  404: ''
+  front: /node
+admin_compact_mode: false
+weight_select_max: 100
+langcode: en
+default_langcode: en
+_core:
+  default_config_hash: AyT9s8OUcclfALRE_imByOMgtZ19eOlqdF6zI3p7yqo
